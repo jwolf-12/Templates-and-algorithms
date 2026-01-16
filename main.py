@@ -11,6 +11,7 @@ lii = lambda: list(mii())
 li= lambda: list(input())
 INF = sys.maxsize
 
+
 def solve():
     return
 
