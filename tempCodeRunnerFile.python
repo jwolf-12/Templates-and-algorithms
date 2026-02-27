@@ -1,0 +1,5 @@
+from collections import defaultdict
+d=defaultdict(list)
+print(d[1])
+k=list(d.keys())
+print(k)
