@@ -11,11 +11,6 @@ lii = lambda: list(mii())
 li= lambda: list(input())
 INF = sys.maxsize
 
-def display(l1):
-    for i in l1:
-        print(i,end=' ')
-    print()
-
 def solve():
     n,ax,ay,bx,by=mii()
     x=lii()
